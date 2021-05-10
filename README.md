@@ -5,6 +5,9 @@ Nathalia: RUT => 20.919.493-7
 Antonia: RUT => 20.704.874-7
 Ignacio: RUT => 20.995.869-4
 
+No hay commits como se debería ya que habiamos trabajado por replit y visual studio(liveshare), solo agregamos commits cuando ya se habia subido
+el trabajo a github.
+
 Instrucciones de compilacion: 
 - correr el comando:
  > make
