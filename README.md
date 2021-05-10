@@ -56,7 +56,7 @@ Todos los items parecen funcionar bien,
 
 ASPECTOS POSITIVOS/NEGATIVOS
 
-Jorge -> Trabaja rápido y es muy productivo pero a veces avanza solo y los demás del grupo se pierden
+Jorge -> Trabaja rápido y es muy productivo, se maneja muy bien programando pero a veces avanza solo y los demás del grupo se pierden
 Nathalia -> Da opiniones y pregunta si no entiende. Sin embargo, aún le cuesta mucho el implementar ejercicios con los tdas.
 Ignacio -> No se queda con lo que sabe, investiga y aprende si no desconoce la información. Aún así, a veces es muy disperso y desconcentra a los demás pero aún así es buen aporte.
 Antonia -> Ideas muy eficientes con respecto a la tarea pero a veces desaparece sin avisar.
